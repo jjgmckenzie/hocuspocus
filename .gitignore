@@ -4,7 +4,7 @@
 .env
 .env.*
 .temp
-dist
+
 node_modules
 .idea
 
